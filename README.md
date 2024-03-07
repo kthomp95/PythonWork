@@ -1,1 +1,1 @@
-This branch is to show some projects done in python. This branch is not specifically related to data science.
+These projects are to show my ability using python outside of projects specific to data science. 
